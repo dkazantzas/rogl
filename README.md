@@ -8,11 +8,15 @@ Personally I was always to lazy to create test objects for Unit Testing. However
 Instead of manually creating test objects, why not creating them automatically?
 
 # How to use
+See example in ***examples*** directory. For an object to be generated, it **must** have an empty constructor **and** setters
+**for each** attribute
 
+Currently only objects with primitive or String attributes are supported.
 
-
+# Plans
++ Add support for all types of attributes
 
 
 # Disclaimer
-Currently, it's a work in progress. Many things are going to change and many things are going to break
-
+Currently, it's a work in progress. Many things are going to change and many things are going to break. I am not
+responsible if your cat gets eaten
