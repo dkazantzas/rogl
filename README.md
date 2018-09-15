@@ -7,5 +7,12 @@ Personally I was always to lazy to create test objects for Unit Testing. However
 # Solution
 Instead of manually creating test objects, why not creating them automatically?
 
+# How to use
+
+
+
+
+
 # Disclaimer
 Currently, it's a work in progress. Many things are going to change and many things are going to break
+
