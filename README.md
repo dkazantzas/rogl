@@ -19,4 +19,4 @@ Currently only objects with primitive or String attributes are supported.
 
 # Disclaimer
 Currently, it's a work in progress. Many things are going to change and many things are going to break. I am not
-responsible if your cat gets eaten
+responsible if your cat gets eaten. I know there are other libraries that can do this and even more. It is nothing more than a pet project
